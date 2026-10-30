@@ -1,0 +1,9 @@
+﻿target/
+.vscode/
+.env
+.env.*
+!.env.example
+*.class
+*.log
+company_backup.json
+*_backup.json
